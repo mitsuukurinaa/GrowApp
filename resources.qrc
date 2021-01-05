@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/EuroIco.png</file>
+        <file>images/GrowAppIcon.ico</file>
+        <file>images/HomeIco.png</file>
+        <file>images/SettingsIco.png</file>
+        <file>images/CashIco.png</file>
+        <file>images/GermanyIco.png</file>
+        <file>images/PolandIco.png</file>
+        <file>images/UsaIco.png</file>
+        <file>images/DoneTask.png</file>
+        <file>images/TaskDone.png</file>
+        <file>images/TaskNotDone.png</file>
+    </qresource>
+</RCC>
